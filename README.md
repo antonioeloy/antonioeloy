@@ -1,6 +1,6 @@
 # Olá!
 
-- :computer: Desenvolvedor Web | Full Stack | Java | Spring | Vue.js
+- :computer: Desenvolvedor Web | Back-end | Java | Spring | Spring Boot
 - :school: Ocupo atualmente o cargo de Analista de Tecnologia da Informação na Universidade Federal do Espírito Santo (UFES).
 
 ## Contatos
