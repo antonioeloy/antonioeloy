@@ -1,6 +1,6 @@
 # Olá!
 
-- :computer: Desenvolvedor Web | Back-end | Java | Spring | Spring Boot
+- :computer: Desenvolvedor Web | Back-end | Java | Spring
 - :school: Zup IT Innovation
 
 ## Contatos
